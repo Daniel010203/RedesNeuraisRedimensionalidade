@@ -1,5 +1,5 @@
 import cv2
-
+#mudança
 # Read Image
 img = cv2.imread('entrada.jpg')
 # Display Image
